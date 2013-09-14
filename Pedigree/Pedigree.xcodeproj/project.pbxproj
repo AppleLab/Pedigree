@@ -115,6 +115,7 @@
 		CE67070317E1FFB000F14BA5 /* Pedigree */ = {
 			isa = PBXGroup;
 			children = (
+				CE95BC6417E4AB9400C5D042 /* Testing */,
 				CE67070C17E1FFB000F14BA5 /* AppDelegate.h */,
 				CE67070D17E1FFB000F14BA5 /* AppDelegate.m */,
 				CE67070F17E1FFB000F14BA5 /* Main.storyboard */,
@@ -155,6 +156,13 @@
 				CE67072517E1FFB000F14BA5 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CE95BC6417E4AB9400C5D042 /* Testing */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Testing;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
