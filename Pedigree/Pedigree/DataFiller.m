@@ -10,4 +10,12 @@
 
 @implementation DataFiller
 
++(NSMutableArray *) fillData:(NSArray *)arrayOfIDs and:(NSArray *)arrayOfNames
+{
+    NSMutableArray *result = [[NSMutableArray alloc] init];
+    [result addObject: arrayOfIDs];
+    [result addObject: arrayOfNames];
+    return result;
+}
+
 @end
