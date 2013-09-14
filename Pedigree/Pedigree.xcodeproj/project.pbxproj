@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE1860FC17E48FB90088830F /* DataFiller.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1860FB17E48FB90088830F /* DataFiller.m */; };
 		CE6706FE17E1FFB000F14BA5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE6706FD17E1FFB000F14BA5 /* Foundation.framework */; };
 		CE67070017E1FFB000F14BA5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE6706FF17E1FFB000F14BA5 /* CoreGraphics.framework */; };
 		CE67070217E1FFB000F14BA5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE67070117E1FFB000F14BA5 /* UIKit.framework */; };
@@ -34,6 +35,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CE1860FA17E48FB90088830F /* DataFiller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataFiller.h; sourceTree = "<group>"; };
+		CE1860FB17E48FB90088830F /* DataFiller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataFiller.m; sourceTree = "<group>"; };
 		CE6706FA17E1FFB000F14BA5 /* Pedigree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pedigree.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE6706FD17E1FFB000F14BA5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CE6706FF17E1FFB000F14BA5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -119,6 +122,8 @@
 				CE67071317E1FFB000F14BA5 /* ViewController.m */,
 				CE67071517E1FFB000F14BA5 /* Images.xcassets */,
 				CE67070417E1FFB000F14BA5 /* Supporting Files */,
+				CE1860FA17E48FB90088830F /* DataFiller.h */,
+				CE1860FB17E48FB90088830F /* DataFiller.m */,
 			);
 			path = Pedigree;
 			sourceTree = "<group>";
@@ -252,6 +257,7 @@
 				CE67071417E1FFB000F14BA5 /* ViewController.m in Sources */,
 				CE67070E17E1FFB000F14BA5 /* AppDelegate.m in Sources */,
 				CE67070A17E1FFB000F14BA5 /* main.m in Sources */,
+				CE1860FC17E48FB90088830F /* DataFiller.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -454,6 +460,7 @@
 				CE67072E17E1FFB000F14BA5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE67072F17E1FFB000F14BA5 /* Build configuration list for PBXNativeTarget "PedigreeTests" */ = {
 			isa = XCConfigurationList;
@@ -462,6 +469,7 @@
 				CE67073117E1FFB000F14BA5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

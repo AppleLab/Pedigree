@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E622907-14D3-454B-8C76-440A468C1239</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Pedigree</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>09CF947D-B0A0-4F1E-B449-8EF3810CEE27</key>
+		<string>https://github.com/AppleLab/Pedigree.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Pedigree/Pedigree.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>09CF947D-B0A0-4F1E-B449-8EF3810CEE27</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AppleLab/Pedigree.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>09CF947D-B0A0-4F1E-B449-8EF3810CEE27</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>09CF947D-B0A0-4F1E-B449-8EF3810CEE27</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Pedigree</string>
+		</dict>
+	</array>
+</dict>
+</plist>
