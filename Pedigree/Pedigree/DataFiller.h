@@ -10,6 +10,6 @@
 
 @interface DataFiller : NSObject
 
-+(NSMutableArray *) fillData :(NSArray *)arrayOfIDs and :(NSArray *)arrayOfNames;
++ (NSMutableArray *) fillData :(NSArray *)arrayOfIDs and :(NSArray *)arrayOfNames;
 
 @end

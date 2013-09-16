@@ -22,6 +22,8 @@
 		CE67071F17E1FFB000F14BA5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE67070117E1FFB000F14BA5 /* UIKit.framework */; };
 		CE67072717E1FFB000F14BA5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE67072517E1FFB000F14BA5 /* InfoPlist.strings */; };
 		CE67072917E1FFB000F14BA5 /* PedigreeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE67072817E1FFB000F14BA5 /* PedigreeTests.m */; };
+		CED5FF5917E7307D00A07CCD /* ArrayOfNames.m in Sources */ = {isa = PBXBuildFile; fileRef = CED5FF5817E7307D00A07CCD /* ArrayOfNames.m */; };
+		CED5FF5C17E737F300A07CCD /* DetailInformation.m in Sources */ = {isa = PBXBuildFile; fileRef = CED5FF5B17E737F300A07CCD /* DetailInformation.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +58,10 @@
 		CE67072417E1FFB000F14BA5 /* PedigreeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PedigreeTests-Info.plist"; sourceTree = "<group>"; };
 		CE67072617E1FFB000F14BA5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CE67072817E1FFB000F14BA5 /* PedigreeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PedigreeTests.m; sourceTree = "<group>"; };
+		CED5FF5717E7307D00A07CCD /* ArrayOfNames.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArrayOfNames.h; sourceTree = "<group>"; };
+		CED5FF5817E7307D00A07CCD /* ArrayOfNames.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArrayOfNames.m; sourceTree = "<group>"; };
+		CED5FF5A17E737F300A07CCD /* DetailInformation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailInformation.h; sourceTree = "<group>"; };
+		CED5FF5B17E737F300A07CCD /* DetailInformation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailInformation.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +122,7 @@
 			isa = PBXGroup;
 			children = (
 				CE95BC6417E4AB9400C5D042 /* Testing */,
+				CED5FF5617E72DB300A07CCD /* DataView */,
 				CE67070C17E1FFB000F14BA5 /* AppDelegate.h */,
 				CE67070D17E1FFB000F14BA5 /* AppDelegate.m */,
 				CE67070F17E1FFB000F14BA5 /* Main.storyboard */,
@@ -123,8 +130,6 @@
 				CE67071317E1FFB000F14BA5 /* ViewController.m */,
 				CE67071517E1FFB000F14BA5 /* Images.xcassets */,
 				CE67070417E1FFB000F14BA5 /* Supporting Files */,
-				CE1860FA17E48FB90088830F /* DataFiller.h */,
-				CE1860FB17E48FB90088830F /* DataFiller.m */,
 			);
 			path = Pedigree;
 			sourceTree = "<group>";
@@ -163,6 +168,19 @@
 			children = (
 			);
 			name = Testing;
+			sourceTree = "<group>";
+		};
+		CED5FF5617E72DB300A07CCD /* DataView */ = {
+			isa = PBXGroup;
+			children = (
+				CE1860FB17E48FB90088830F /* DataFiller.m */,
+				CE1860FA17E48FB90088830F /* DataFiller.h */,
+				CED5FF5717E7307D00A07CCD /* ArrayOfNames.h */,
+				CED5FF5817E7307D00A07CCD /* ArrayOfNames.m */,
+				CED5FF5A17E737F300A07CCD /* DetailInformation.h */,
+				CED5FF5B17E737F300A07CCD /* DetailInformation.m */,
+			);
+			name = DataView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -265,7 +283,9 @@
 				CE67071417E1FFB000F14BA5 /* ViewController.m in Sources */,
 				CE67070E17E1FFB000F14BA5 /* AppDelegate.m in Sources */,
 				CE67070A17E1FFB000F14BA5 /* main.m in Sources */,
+				CED5FF5917E7307D00A07CCD /* ArrayOfNames.m in Sources */,
 				CE1860FC17E48FB90088830F /* DataFiller.m in Sources */,
+				CED5FF5C17E737F300A07CCD /* DetailInformation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
