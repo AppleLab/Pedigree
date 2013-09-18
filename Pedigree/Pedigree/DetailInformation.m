@@ -15,6 +15,7 @@
 @implementation DetailInformation
 
 @synthesize name;
+@synthesize ID;
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -29,7 +30,8 @@
 {
     [super viewDidLoad];
     self.Label.text = name;
-    self.Text.text = [self gettingInformation:@"Michael" :@"Red" :@"Scooby-doo" :@"Djessi" :@"Spaniel" :@"Male" :@"King"];
+    self.Text.text = [self textInfo: ID];
+    //self.Text.text = [self gettingInformation:@"Michael" :@"Red" :@"Scooby-doo" :@"Djessi" :@"Spaniel" :@"Male" :@"King"];
 	// Do any additional setup after loading the view.
 }
 
@@ -77,6 +79,13 @@
         result = [result stringByAppendingString:@"\nTitles: "];
         result = [result stringByAppendingString:titles];
     }
+    return result;
+}
+
+- (NSString *) textInfo:(NSString *)ID
+{
+    // should take the information about dog from DB
+    NSString *result = [self gettingInformation:@"Michael" :@"Red" :@"Scooby-doo" :@"Djessi" :@"Spaniel" :@"Male" :@"King"];
     return result;
 }
 

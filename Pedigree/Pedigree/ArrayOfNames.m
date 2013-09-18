@@ -123,6 +123,7 @@
     DetailInformation *di = [[DetailInformation alloc] init];
     di = [segue destinationViewController];
     NSIndexPath *ip = [self.tableView indexPathForSelectedRow];
+    di.ID = [[ma objectAtIndex: 0] objectAtIndex:ip.row];
     di.name = [[ma objectAtIndex: 1] objectAtIndex:ip.row];
 }
 

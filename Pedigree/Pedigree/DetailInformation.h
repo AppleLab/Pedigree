@@ -13,7 +13,9 @@
 @property (weak, nonatomic) IBOutlet UITextView *Text;
 @property (weak, nonatomic) IBOutlet UILabel *Label;
 @property NSString *name;
+@property NSString *ID;
 
--(NSString *) gettingInformation :(NSString *)owner :(NSString *)color :(NSString *)sire :(NSString *)dam :(NSString *)breed :(NSString *)gender :(NSString *)titles;
+- (NSString *) gettingInformation :(NSString *)owner :(NSString *)color :(NSString *)sire :(NSString *)dam :(NSString *)breed :(NSString *)gender :(NSString *)titles;
+- (NSString *) textInfo :(NSString *)ID;
 
 @end
