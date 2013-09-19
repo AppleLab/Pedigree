@@ -84,6 +84,7 @@
 		CE8D809817EB33AA00C6B506 /* DictionaryFilling.m in Sources */ = {isa = PBXBuildFile; fileRef = CE8D809717EB33AA00C6B506 /* DictionaryFilling.m */; };
 		CED5FF5917E7307D00A07CCD /* ArrayOfNames.m in Sources */ = {isa = PBXBuildFile; fileRef = CED5FF5817E7307D00A07CCD /* ArrayOfNames.m */; };
 		CED5FF5C17E737F300A07CCD /* DetailInformation.m in Sources */ = {isa = PBXBuildFile; fileRef = CED5FF5B17E737F300A07CCD /* DetailInformation.m */; };
+		CEE3102A17EB384300F95913 /* Data base in Resources */ = {isa = PBXBuildFile; fileRef = CEE3102917EB384300F95913 /* Data base */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -241,6 +242,7 @@
 		CED5FF5817E7307D00A07CCD /* ArrayOfNames.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArrayOfNames.m; sourceTree = "<group>"; };
 		CED5FF5A17E737F300A07CCD /* DetailInformation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailInformation.h; sourceTree = "<group>"; };
 		CED5FF5B17E737F300A07CCD /* DetailInformation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailInformation.m; sourceTree = "<group>"; };
+		CEE3102917EB384300F95913 /* Data base */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Data base"; path = "../../Data base"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -314,6 +316,7 @@
 				CE8D801C17EB322100C6B506 /* Avann Agibeys.jpg */,
 				CE8D801D17EB322100C6B506 /* Beasleys Alexa Rose Vom Alzimm.jpg */,
 				CE8D801E17EB322100C6B506 /* Ben Frajan.jpg */,
+				CEE3102917EB384300F95913 /* Data base */,
 				CE8D801F17EB322100C6B506 /* Big-O Thunderheart of Kokomo.jpg */,
 				CE8D802017EB322100C6B506 /* Blagovest.jpg */,
 				CE8D802117EB322100C6B506 /* Cajo’s Adirondack Whiteface.jpg */,
@@ -653,6 +656,7 @@
 				CE8D803A17EB322100C6B506 /* Avann Agibeys.jpg in Resources */,
 				CE67071117E1FFB000F14BA5 /* Main.storyboard in Resources */,
 				CE8D804017EB322100C6B506 /* Cajo’s Face of Mischief.jpg in Resources */,
+				CEE3102A17EB384300F95913 /* Data base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
