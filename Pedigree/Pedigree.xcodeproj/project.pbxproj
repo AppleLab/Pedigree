@@ -22,6 +22,37 @@
 		CE67071F17E1FFB000F14BA5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE67070117E1FFB000F14BA5 /* UIKit.framework */; };
 		CE67072717E1FFB000F14BA5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CE67072517E1FFB000F14BA5 /* InfoPlist.strings */; };
 		CE67072917E1FFB000F14BA5 /* PedigreeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE67072817E1FFB000F14BA5 /* PedigreeTests.m */; };
+		CE8D801617EB31F100C6B506 /* Data base in Resources */ = {isa = PBXBuildFile; fileRef = CE8D801517EB31F100C6B506 /* Data base */; };
+		CE8D803517EB322100C6B506 /* Abba z Carclei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D801717EB322100C6B506 /* Abba z Carclei.jpg */; };
+		CE8D803617EB322100C6B506 /* Abbie Gail Braddock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D801817EB322100C6B506 /* Abbie Gail Braddock.jpg */; };
+		CE8D803717EB322100C6B506 /* Aksinia Borodino.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D801917EB322100C6B506 /* Aksinia Borodino.jpg */; };
+		CE8D803817EB322100C6B506 /* Alegra von der Villa Musica.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D801A17EB322100C6B506 /* Alegra von der Villa Musica.jpg */; };
+		CE8D803917EB322100C6B506 /* Aria Stepowy Goniec.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D801B17EB322100C6B506 /* Aria Stepowy Goniec.jpg */; };
+		CE8D803A17EB322100C6B506 /* Avann Agibeys.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D801C17EB322100C6B506 /* Avann Agibeys.jpg */; };
+		CE8D803B17EB322100C6B506 /* Beasleys Alexa Rose Vom Alzimm.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D801D17EB322100C6B506 /* Beasleys Alexa Rose Vom Alzimm.jpg */; };
+		CE8D803C17EB322100C6B506 /* Ben Frajan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D801E17EB322100C6B506 /* Ben Frajan.jpg */; };
+		CE8D803D17EB322100C6B506 /* Big-O Thunderheart of Kokomo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D801F17EB322100C6B506 /* Big-O Thunderheart of Kokomo.jpg */; };
+		CE8D803E17EB322100C6B506 /* Blagovest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802017EB322100C6B506 /* Blagovest.jpg */; };
+		CE8D803F17EB322100C6B506 /* Cajo’s Adirondack Whiteface.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802117EB322100C6B506 /* Cajo’s Adirondack Whiteface.jpg */; };
+		CE8D804017EB322100C6B506 /* Cajo’s Face of Mischief.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802217EB322100C6B506 /* Cajo’s Face of Mischief.jpg */; };
+		CE8D804117EB322100C6B506 /* Cajo’s Ladyhawk Stormdancer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802317EB322100C6B506 /* Cajo’s Ladyhawk Stormdancer.jpg */; };
+		CE8D804217EB322100C6B506 /* Cajo’s Lion Heart of Algarin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802417EB322100C6B506 /* Cajo’s Lion Heart of Algarin.jpg */; };
+		CE8D804317EB322100C6B506 /* Calaban’s Hoosier Daddy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802517EB322100C6B506 /* Calaban’s Hoosier Daddy.jpg */; };
+		CE8D804417EB322100C6B506 /* Dakoda Bear Vom Richthofen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802617EB322100C6B506 /* Dakoda Bear Vom Richthofen.jpg */; };
+		CE8D804517EB322100C6B506 /* Furia vom Richthofen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802717EB322100C6B506 /* Furia vom Richthofen.jpg */; };
+		CE8D804617EB322100C6B506 /* King Solomon’s Wisdom II.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802817EB322100C6B506 /* King Solomon’s Wisdom II.jpg */; };
+		CE8D804717EB322100C6B506 /* Kohle vom Ritter Strasse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802917EB322100C6B506 /* Kohle vom Ritter Strasse.jpg */; };
+		CE8D804817EB322100C6B506 /* Lisa vom Polarkreis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802A17EB322100C6B506 /* Lisa vom Polarkreis.jpg */; };
+		CE8D804917EB322100C6B506 /* Mariah’s Command in Conquer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802B17EB322100C6B506 /* Mariah’s Command in Conquer.jpg */; };
+		CE8D804A17EB322100C6B506 /* Masako Mariko-San Foonying.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802C17EB322100C6B506 /* Masako Mariko-San Foonying.jpg */; };
+		CE8D804B17EB322100C6B506 /* no.gif in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802D17EB322100C6B506 /* no.gif */; };
+		CE8D804C17EB322100C6B506 /* Orient’s Pride Tonka Tuff OPA  .jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802E17EB322100C6B506 /* Orient’s Pride Tonka Tuff OPA  .jpg */; };
+		CE8D804D17EB322100C6B506 /* Polar Ice Great Pretender.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D802F17EB322100C6B506 /* Polar Ice Great Pretender.jpg */; };
+		CE8D804E17EB322100C6B506 /* Raja of Tarko.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D803017EB322100C6B506 /* Raja of Tarko.jpg */; };
+		CE8D804F17EB322100C6B506 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE8D803217EB322100C6B506 /* TableViewController.m */; };
+		CE8D805017EB322100C6B506 /* Timbuktu Atu Koibito.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D803317EB322100C6B506 /* Timbuktu Atu Koibito.jpg */; };
+		CE8D805117EB322100C6B506 /* Uzit v Bullinger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE8D803417EB322100C6B506 /* Uzit v Bullinger.jpg */; };
+		CE8D809817EB33AA00C6B506 /* DictionaryFilling.m in Sources */ = {isa = PBXBuildFile; fileRef = CE8D809717EB33AA00C6B506 /* DictionaryFilling.m */; };
 		CED5FF5917E7307D00A07CCD /* ArrayOfNames.m in Sources */ = {isa = PBXBuildFile; fileRef = CED5FF5817E7307D00A07CCD /* ArrayOfNames.m */; };
 		CED5FF5C17E737F300A07CCD /* DetailInformation.m in Sources */ = {isa = PBXBuildFile; fileRef = CED5FF5B17E737F300A07CCD /* DetailInformation.m */; };
 /* End PBXBuildFile section */
@@ -58,6 +89,95 @@
 		CE67072417E1FFB000F14BA5 /* PedigreeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PedigreeTests-Info.plist"; sourceTree = "<group>"; };
 		CE67072617E1FFB000F14BA5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CE67072817E1FFB000F14BA5 /* PedigreeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PedigreeTests.m; sourceTree = "<group>"; };
+		CE8D801517EB31F100C6B506 /* Data base */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Data base"; path = "../../../Pedigree Ира/Data base"; sourceTree = "<group>"; };
+		CE8D801717EB322100C6B506 /* Abba z Carclei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Abba z Carclei.jpg"; path = "../../../Pedigree Ира/Pedigree/Abba z Carclei.jpg"; sourceTree = "<group>"; };
+		CE8D801817EB322100C6B506 /* Abbie Gail Braddock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Abbie Gail Braddock.jpg"; path = "../../../Pedigree Ира/Pedigree/Abbie Gail Braddock.jpg"; sourceTree = "<group>"; };
+		CE8D801917EB322100C6B506 /* Aksinia Borodino.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Aksinia Borodino.jpg"; path = "../../../Pedigree Ира/Pedigree/Aksinia Borodino.jpg"; sourceTree = "<group>"; };
+		CE8D801A17EB322100C6B506 /* Alegra von der Villa Musica.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Alegra von der Villa Musica.jpg"; path = "../../../Pedigree Ира/Pedigree/Alegra von der Villa Musica.jpg"; sourceTree = "<group>"; };
+		CE8D801B17EB322100C6B506 /* Aria Stepowy Goniec.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Aria Stepowy Goniec.jpg"; path = "../../../Pedigree Ира/Pedigree/Aria Stepowy Goniec.jpg"; sourceTree = "<group>"; };
+		CE8D801C17EB322100C6B506 /* Avann Agibeys.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Avann Agibeys.jpg"; path = "../../../Pedigree Ира/Pedigree/Avann Agibeys.jpg"; sourceTree = "<group>"; };
+		CE8D801D17EB322100C6B506 /* Beasleys Alexa Rose Vom Alzimm.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Beasleys Alexa Rose Vom Alzimm.jpg"; path = "../../../Pedigree Ира/Pedigree/Beasleys Alexa Rose Vom Alzimm.jpg"; sourceTree = "<group>"; };
+		CE8D801E17EB322100C6B506 /* Ben Frajan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Ben Frajan.jpg"; path = "../../../Pedigree Ира/Pedigree/Ben Frajan.jpg"; sourceTree = "<group>"; };
+		CE8D801F17EB322100C6B506 /* Big-O Thunderheart of Kokomo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Big-O Thunderheart of Kokomo.jpg"; path = "../../../Pedigree Ира/Pedigree/Big-O Thunderheart of Kokomo.jpg"; sourceTree = "<group>"; };
+		CE8D802017EB322100C6B506 /* Blagovest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Blagovest.jpg; path = "../../../Pedigree Ира/Pedigree/Blagovest.jpg"; sourceTree = "<group>"; };
+		CE8D802117EB322100C6B506 /* Cajo’s Adirondack Whiteface.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Cajo’s Adirondack Whiteface.jpg"; path = "../../../Pedigree Ира/Pedigree/Cajo’s Adirondack Whiteface.jpg"; sourceTree = "<group>"; };
+		CE8D802217EB322100C6B506 /* Cajo’s Face of Mischief.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Cajo’s Face of Mischief.jpg"; path = "../../../Pedigree Ира/Pedigree/Cajo’s Face of Mischief.jpg"; sourceTree = "<group>"; };
+		CE8D802317EB322100C6B506 /* Cajo’s Ladyhawk Stormdancer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Cajo’s Ladyhawk Stormdancer.jpg"; path = "../../../Pedigree Ира/Pedigree/Cajo’s Ladyhawk Stormdancer.jpg"; sourceTree = "<group>"; };
+		CE8D802417EB322100C6B506 /* Cajo’s Lion Heart of Algarin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Cajo’s Lion Heart of Algarin.jpg"; path = "../../../Pedigree Ира/Pedigree/Cajo’s Lion Heart of Algarin.jpg"; sourceTree = "<group>"; };
+		CE8D802517EB322100C6B506 /* Calaban’s Hoosier Daddy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Calaban’s Hoosier Daddy.jpg"; path = "../../../Pedigree Ира/Pedigree/Calaban’s Hoosier Daddy.jpg"; sourceTree = "<group>"; };
+		CE8D802617EB322100C6B506 /* Dakoda Bear Vom Richthofen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Dakoda Bear Vom Richthofen.jpg"; path = "../../../Pedigree Ира/Pedigree/Dakoda Bear Vom Richthofen.jpg"; sourceTree = "<group>"; };
+		CE8D802717EB322100C6B506 /* Furia vom Richthofen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Furia vom Richthofen.jpg"; path = "../../../Pedigree Ира/Pedigree/Furia vom Richthofen.jpg"; sourceTree = "<group>"; };
+		CE8D802817EB322100C6B506 /* King Solomon’s Wisdom II.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "King Solomon’s Wisdom II.jpg"; path = "../../../Pedigree Ира/Pedigree/King Solomon’s Wisdom II.jpg"; sourceTree = "<group>"; };
+		CE8D802917EB322100C6B506 /* Kohle vom Ritter Strasse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Kohle vom Ritter Strasse.jpg"; path = "../../../Pedigree Ира/Pedigree/Kohle vom Ritter Strasse.jpg"; sourceTree = "<group>"; };
+		CE8D802A17EB322100C6B506 /* Lisa vom Polarkreis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Lisa vom Polarkreis.jpg"; path = "../../../Pedigree Ира/Pedigree/Lisa vom Polarkreis.jpg"; sourceTree = "<group>"; };
+		CE8D802B17EB322100C6B506 /* Mariah’s Command in Conquer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Mariah’s Command in Conquer.jpg"; path = "../../../Pedigree Ира/Pedigree/Mariah’s Command in Conquer.jpg"; sourceTree = "<group>"; };
+		CE8D802C17EB322100C6B506 /* Masako Mariko-San Foonying.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Masako Mariko-San Foonying.jpg"; path = "../../../Pedigree Ира/Pedigree/Masako Mariko-San Foonying.jpg"; sourceTree = "<group>"; };
+		CE8D802D17EB322100C6B506 /* no.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = no.gif; path = "../../../Pedigree Ира/Pedigree/no.gif"; sourceTree = "<group>"; };
+		CE8D802E17EB322100C6B506 /* Orient’s Pride Tonka Tuff OPA  .jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Orient’s Pride Tonka Tuff OPA  .jpg"; path = "../../../Pedigree Ира/Pedigree/Orient’s Pride Tonka Tuff OPA  .jpg"; sourceTree = "<group>"; };
+		CE8D802F17EB322100C6B506 /* Polar Ice Great Pretender.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Polar Ice Great Pretender.jpg"; path = "../../../Pedigree Ира/Pedigree/Polar Ice Great Pretender.jpg"; sourceTree = "<group>"; };
+		CE8D803017EB322100C6B506 /* Raja of Tarko.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Raja of Tarko.jpg"; path = "../../../Pedigree Ира/Pedigree/Raja of Tarko.jpg"; sourceTree = "<group>"; };
+		CE8D803117EB322100C6B506 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TableViewController.h; path = "../../../Pedigree Ира/Pedigree/TableViewController.h"; sourceTree = "<group>"; };
+		CE8D803217EB322100C6B506 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TableViewController.m; path = "../../../Pedigree Ира/Pedigree/TableViewController.m"; sourceTree = "<group>"; };
+		CE8D803317EB322100C6B506 /* Timbuktu Atu Koibito.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Timbuktu Atu Koibito.jpg"; path = "../../../Pedigree Ира/Pedigree/Timbuktu Atu Koibito.jpg"; sourceTree = "<group>"; };
+		CE8D803417EB322100C6B506 /* Uzit v Bullinger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Uzit v Bullinger.jpg"; path = "../../../Pedigree Ира/Pedigree/Uzit v Bullinger.jpg"; sourceTree = "<group>"; };
+		CE8D805317EB323C00C6B506 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CE8D805417EB323C00C6B506 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CE8D805617EB323C00C6B506 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CE8D805717EB323C00C6B506 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		CE8D805817EB323C00C6B506 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		CE8D805917EB323C00C6B506 /* DictionaryFilling.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DictionaryFilling.h; sourceTree = "<group>"; };
+		CE8D805A17EB323C00C6B506 /* DictionaryFilling.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DictionaryFilling.m; sourceTree = "<group>"; };
+		CE8D805C17EB323C00C6B506 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CE8D805D17EB323C00C6B506 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		CE8D805E17EB323C00C6B506 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CE8D805F17EB323C00C6B506 /* Pedigree-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Pedigree-Info.plist"; sourceTree = "<group>"; };
+		CE8D806017EB323C00C6B506 /* Pedigree-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Pedigree-Prefix.pch"; sourceTree = "<group>"; };
+		CE8D806117EB323C00C6B506 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		CE8D806217EB323C00C6B506 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		CE8D806417EB32A100C6B506 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CE8D806517EB32A100C6B506 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CE8D806717EB32A100C6B506 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CE8D806817EB32A100C6B506 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		CE8D806917EB32A100C6B506 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		CE8D806A17EB32A100C6B506 /* DictionaryFilling.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DictionaryFilling.h; sourceTree = "<group>"; };
+		CE8D806B17EB32A100C6B506 /* DictionaryFilling.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DictionaryFilling.m; sourceTree = "<group>"; };
+		CE8D806D17EB32A100C6B506 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CE8D806E17EB32A100C6B506 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		CE8D806F17EB32A100C6B506 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CE8D807017EB32A100C6B506 /* Pedigree-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Pedigree-Info.plist"; sourceTree = "<group>"; };
+		CE8D807117EB32A100C6B506 /* Pedigree-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Pedigree-Prefix.pch"; sourceTree = "<group>"; };
+		CE8D807217EB32A100C6B506 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		CE8D807317EB32A100C6B506 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		CE8D807517EB32BE00C6B506 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CE8D807617EB32BE00C6B506 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CE8D807817EB32BE00C6B506 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CE8D807917EB32BE00C6B506 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		CE8D807A17EB32BE00C6B506 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		CE8D807B17EB32BE00C6B506 /* DictionaryFilling.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DictionaryFilling.h; sourceTree = "<group>"; };
+		CE8D807C17EB32BE00C6B506 /* DictionaryFilling.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DictionaryFilling.m; sourceTree = "<group>"; };
+		CE8D807E17EB32BE00C6B506 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CE8D807F17EB32BE00C6B506 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		CE8D808017EB32BE00C6B506 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CE8D808117EB32BE00C6B506 /* Pedigree-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Pedigree-Info.plist"; sourceTree = "<group>"; };
+		CE8D808217EB32BE00C6B506 /* Pedigree-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Pedigree-Prefix.pch"; sourceTree = "<group>"; };
+		CE8D808317EB32BE00C6B506 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		CE8D808417EB32BE00C6B506 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		CE8D808617EB330C00C6B506 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CE8D808717EB330C00C6B506 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CE8D808917EB330C00C6B506 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CE8D808A17EB330C00C6B506 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		CE8D808B17EB330C00C6B506 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		CE8D808C17EB330C00C6B506 /* DictionaryFilling.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DictionaryFilling.h; sourceTree = "<group>"; };
+		CE8D808D17EB330C00C6B506 /* DictionaryFilling.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DictionaryFilling.m; sourceTree = "<group>"; };
+		CE8D808F17EB330C00C6B506 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CE8D809017EB330C00C6B506 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		CE8D809117EB330C00C6B506 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CE8D809217EB330C00C6B506 /* Pedigree-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Pedigree-Info.plist"; sourceTree = "<group>"; };
+		CE8D809317EB330C00C6B506 /* Pedigree-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Pedigree-Prefix.pch"; sourceTree = "<group>"; };
+		CE8D809417EB330C00C6B506 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		CE8D809517EB330C00C6B506 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		CE8D809617EB33AA00C6B506 /* DictionaryFilling.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DictionaryFilling.h; sourceTree = "<group>"; };
+		CE8D809717EB33AA00C6B506 /* DictionaryFilling.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DictionaryFilling.m; sourceTree = "<group>"; };
 		CED5FF5717E7307D00A07CCD /* ArrayOfNames.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArrayOfNames.h; sourceTree = "<group>"; };
 		CED5FF5817E7307D00A07CCD /* ArrayOfNames.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArrayOfNames.m; sourceTree = "<group>"; };
 		CED5FF5A17E737F300A07CCD /* DetailInformation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailInformation.h; sourceTree = "<group>"; };
@@ -126,6 +246,43 @@
 				CE67070C17E1FFB000F14BA5 /* AppDelegate.h */,
 				CE67070D17E1FFB000F14BA5 /* AppDelegate.m */,
 				CE67070F17E1FFB000F14BA5 /* Main.storyboard */,
+				CE8D801717EB322100C6B506 /* Abba z Carclei.jpg */,
+				CE8D801817EB322100C6B506 /* Abbie Gail Braddock.jpg */,
+				CE8D805217EB323B00C6B506 /* Pedigree */,
+				CE8D801917EB322100C6B506 /* Aksinia Borodino.jpg */,
+				CE8D801A17EB322100C6B506 /* Alegra von der Villa Musica.jpg */,
+				CE8D801B17EB322100C6B506 /* Aria Stepowy Goniec.jpg */,
+				CE8D801C17EB322100C6B506 /* Avann Agibeys.jpg */,
+				CE8D801D17EB322100C6B506 /* Beasleys Alexa Rose Vom Alzimm.jpg */,
+				CE8D801E17EB322100C6B506 /* Ben Frajan.jpg */,
+				CE8D801F17EB322100C6B506 /* Big-O Thunderheart of Kokomo.jpg */,
+				CE8D802017EB322100C6B506 /* Blagovest.jpg */,
+				CE8D802117EB322100C6B506 /* Cajo’s Adirondack Whiteface.jpg */,
+				CE8D802217EB322100C6B506 /* Cajo’s Face of Mischief.jpg */,
+				CE8D802317EB322100C6B506 /* Cajo’s Ladyhawk Stormdancer.jpg */,
+				CE8D802417EB322100C6B506 /* Cajo’s Lion Heart of Algarin.jpg */,
+				CE8D802517EB322100C6B506 /* Calaban’s Hoosier Daddy.jpg */,
+				CE8D802617EB322100C6B506 /* Dakoda Bear Vom Richthofen.jpg */,
+				CE8D802717EB322100C6B506 /* Furia vom Richthofen.jpg */,
+				CE8D802817EB322100C6B506 /* King Solomon’s Wisdom II.jpg */,
+				CE8D802917EB322100C6B506 /* Kohle vom Ritter Strasse.jpg */,
+				CE8D802A17EB322100C6B506 /* Lisa vom Polarkreis.jpg */,
+				CE8D802B17EB322100C6B506 /* Mariah’s Command in Conquer.jpg */,
+				CE8D802C17EB322100C6B506 /* Masako Mariko-San Foonying.jpg */,
+				CE8D802D17EB322100C6B506 /* no.gif */,
+				CE8D802E17EB322100C6B506 /* Orient’s Pride Tonka Tuff OPA  .jpg */,
+				CE8D802F17EB322100C6B506 /* Polar Ice Great Pretender.jpg */,
+				CE8D803017EB322100C6B506 /* Raja of Tarko.jpg */,
+				CE8D803117EB322100C6B506 /* TableViewController.h */,
+				CE8D803217EB322100C6B506 /* TableViewController.m */,
+				CE8D809617EB33AA00C6B506 /* DictionaryFilling.h */,
+				CE8D809717EB33AA00C6B506 /* DictionaryFilling.m */,
+				CE8D808517EB330C00C6B506 /* Pedigree */,
+				CE8D807417EB32BE00C6B506 /* Pedigree */,
+				CE8D806317EB32A000C6B506 /* Pedigree */,
+				CE8D803317EB322100C6B506 /* Timbuktu Atu Koibito.jpg */,
+				CE8D803417EB322100C6B506 /* Uzit v Bullinger.jpg */,
+				CE8D801517EB31F100C6B506 /* Data base */,
 				CE67071217E1FFB000F14BA5 /* ViewController.h */,
 				CE67071317E1FFB000F14BA5 /* ViewController.m */,
 				CE67071517E1FFB000F14BA5 /* Images.xcassets */,
@@ -161,6 +318,94 @@
 				CE67072517E1FFB000F14BA5 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CE8D805217EB323B00C6B506 /* Pedigree */ = {
+			isa = PBXGroup;
+			children = (
+				CE8D805317EB323C00C6B506 /* AppDelegate.h */,
+				CE8D805417EB323C00C6B506 /* AppDelegate.m */,
+				CE8D805517EB323C00C6B506 /* Main.storyboard */,
+				CE8D805717EB323C00C6B506 /* DetailViewController.h */,
+				CE8D805817EB323C00C6B506 /* DetailViewController.m */,
+				CE8D805917EB323C00C6B506 /* DictionaryFilling.h */,
+				CE8D805A17EB323C00C6B506 /* DictionaryFilling.m */,
+				CE8D805B17EB323C00C6B506 /* InfoPlist.strings */,
+				CE8D805D17EB323C00C6B506 /* Images.xcassets */,
+				CE8D805E17EB323C00C6B506 /* main.m */,
+				CE8D805F17EB323C00C6B506 /* Pedigree-Info.plist */,
+				CE8D806017EB323C00C6B506 /* Pedigree-Prefix.pch */,
+				CE8D806117EB323C00C6B506 /* ViewController.h */,
+				CE8D806217EB323C00C6B506 /* ViewController.m */,
+			);
+			name = Pedigree;
+			path = "../../../Pedigree Ира/Pedigree/Pedigree";
+			sourceTree = "<group>";
+		};
+		CE8D806317EB32A000C6B506 /* Pedigree */ = {
+			isa = PBXGroup;
+			children = (
+				CE8D806417EB32A100C6B506 /* AppDelegate.h */,
+				CE8D806517EB32A100C6B506 /* AppDelegate.m */,
+				CE8D806617EB32A100C6B506 /* Main.storyboard */,
+				CE8D806817EB32A100C6B506 /* DetailViewController.h */,
+				CE8D806917EB32A100C6B506 /* DetailViewController.m */,
+				CE8D806A17EB32A100C6B506 /* DictionaryFilling.h */,
+				CE8D806B17EB32A100C6B506 /* DictionaryFilling.m */,
+				CE8D806C17EB32A100C6B506 /* InfoPlist.strings */,
+				CE8D806E17EB32A100C6B506 /* Images.xcassets */,
+				CE8D806F17EB32A100C6B506 /* main.m */,
+				CE8D807017EB32A100C6B506 /* Pedigree-Info.plist */,
+				CE8D807117EB32A100C6B506 /* Pedigree-Prefix.pch */,
+				CE8D807217EB32A100C6B506 /* ViewController.h */,
+				CE8D807317EB32A100C6B506 /* ViewController.m */,
+			);
+			name = Pedigree;
+			path = "../../../Pedigree Ира/Pedigree/Pedigree";
+			sourceTree = "<group>";
+		};
+		CE8D807417EB32BE00C6B506 /* Pedigree */ = {
+			isa = PBXGroup;
+			children = (
+				CE8D807517EB32BE00C6B506 /* AppDelegate.h */,
+				CE8D807617EB32BE00C6B506 /* AppDelegate.m */,
+				CE8D807717EB32BE00C6B506 /* Main.storyboard */,
+				CE8D807917EB32BE00C6B506 /* DetailViewController.h */,
+				CE8D807A17EB32BE00C6B506 /* DetailViewController.m */,
+				CE8D807B17EB32BE00C6B506 /* DictionaryFilling.h */,
+				CE8D807C17EB32BE00C6B506 /* DictionaryFilling.m */,
+				CE8D807D17EB32BE00C6B506 /* InfoPlist.strings */,
+				CE8D807F17EB32BE00C6B506 /* Images.xcassets */,
+				CE8D808017EB32BE00C6B506 /* main.m */,
+				CE8D808117EB32BE00C6B506 /* Pedigree-Info.plist */,
+				CE8D808217EB32BE00C6B506 /* Pedigree-Prefix.pch */,
+				CE8D808317EB32BE00C6B506 /* ViewController.h */,
+				CE8D808417EB32BE00C6B506 /* ViewController.m */,
+			);
+			name = Pedigree;
+			path = "../../../Pedigree Ира/Pedigree/Pedigree";
+			sourceTree = "<group>";
+		};
+		CE8D808517EB330C00C6B506 /* Pedigree */ = {
+			isa = PBXGroup;
+			children = (
+				CE8D808617EB330C00C6B506 /* AppDelegate.h */,
+				CE8D808717EB330C00C6B506 /* AppDelegate.m */,
+				CE8D808817EB330C00C6B506 /* Main.storyboard */,
+				CE8D808A17EB330C00C6B506 /* DetailViewController.h */,
+				CE8D808B17EB330C00C6B506 /* DetailViewController.m */,
+				CE8D808C17EB330C00C6B506 /* DictionaryFilling.h */,
+				CE8D808D17EB330C00C6B506 /* DictionaryFilling.m */,
+				CE8D808E17EB330C00C6B506 /* InfoPlist.strings */,
+				CE8D809017EB330C00C6B506 /* Images.xcassets */,
+				CE8D809117EB330C00C6B506 /* main.m */,
+				CE8D809217EB330C00C6B506 /* Pedigree-Info.plist */,
+				CE8D809317EB330C00C6B506 /* Pedigree-Prefix.pch */,
+				CE8D809417EB330C00C6B506 /* ViewController.h */,
+				CE8D809517EB330C00C6B506 /* ViewController.m */,
+			);
+			name = Pedigree;
+			path = "../../../Pedigree Ира/Pedigree/Pedigree";
 			sourceTree = "<group>";
 		};
 		CE95BC6417E4AB9400C5D042 /* Testing */ = {
@@ -259,9 +504,38 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE8D803C17EB322100C6B506 /* Ben Frajan.jpg in Resources */,
 				CE67071617E1FFB000F14BA5 /* Images.xcassets in Resources */,
+				CE8D803B17EB322100C6B506 /* Beasleys Alexa Rose Vom Alzimm.jpg in Resources */,
+				CE8D804417EB322100C6B506 /* Dakoda Bear Vom Richthofen.jpg in Resources */,
+				CE8D804717EB322100C6B506 /* Kohle vom Ritter Strasse.jpg in Resources */,
+				CE8D804817EB322100C6B506 /* Lisa vom Polarkreis.jpg in Resources */,
 				CE67070817E1FFB000F14BA5 /* InfoPlist.strings in Resources */,
+				CE8D803817EB322100C6B506 /* Alegra von der Villa Musica.jpg in Resources */,
+				CE8D804117EB322100C6B506 /* Cajo’s Ladyhawk Stormdancer.jpg in Resources */,
+				CE8D805117EB322100C6B506 /* Uzit v Bullinger.jpg in Resources */,
+				CE8D803617EB322100C6B506 /* Abbie Gail Braddock.jpg in Resources */,
+				CE8D804E17EB322100C6B506 /* Raja of Tarko.jpg in Resources */,
+				CE8D803517EB322100C6B506 /* Abba z Carclei.jpg in Resources */,
+				CE8D804217EB322100C6B506 /* Cajo’s Lion Heart of Algarin.jpg in Resources */,
+				CE8D804917EB322100C6B506 /* Mariah’s Command in Conquer.jpg in Resources */,
+				CE8D803E17EB322100C6B506 /* Blagovest.jpg in Resources */,
+				CE8D804D17EB322100C6B506 /* Polar Ice Great Pretender.jpg in Resources */,
+				CE8D804A17EB322100C6B506 /* Masako Mariko-San Foonying.jpg in Resources */,
+				CE8D803917EB322100C6B506 /* Aria Stepowy Goniec.jpg in Resources */,
+				CE8D805017EB322100C6B506 /* Timbuktu Atu Koibito.jpg in Resources */,
+				CE8D804617EB322100C6B506 /* King Solomon’s Wisdom II.jpg in Resources */,
+				CE8D804C17EB322100C6B506 /* Orient’s Pride Tonka Tuff OPA  .jpg in Resources */,
+				CE8D804B17EB322100C6B506 /* no.gif in Resources */,
+				CE8D804517EB322100C6B506 /* Furia vom Richthofen.jpg in Resources */,
+				CE8D801617EB31F100C6B506 /* Data base in Resources */,
+				CE8D803717EB322100C6B506 /* Aksinia Borodino.jpg in Resources */,
+				CE8D804317EB322100C6B506 /* Calaban’s Hoosier Daddy.jpg in Resources */,
+				CE8D803F17EB322100C6B506 /* Cajo’s Adirondack Whiteface.jpg in Resources */,
+				CE8D803D17EB322100C6B506 /* Big-O Thunderheart of Kokomo.jpg in Resources */,
+				CE8D803A17EB322100C6B506 /* Avann Agibeys.jpg in Resources */,
 				CE67071117E1FFB000F14BA5 /* Main.storyboard in Resources */,
+				CE8D804017EB322100C6B506 /* Cajo’s Face of Mischief.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,10 +555,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE67071417E1FFB000F14BA5 /* ViewController.m in Sources */,
+				CE8D809817EB33AA00C6B506 /* DictionaryFilling.m in Sources */,
 				CE67070E17E1FFB000F14BA5 /* AppDelegate.m in Sources */,
 				CE67070A17E1FFB000F14BA5 /* main.m in Sources */,
 				CED5FF5917E7307D00A07CCD /* ArrayOfNames.m in Sources */,
 				CE1860FC17E48FB90088830F /* DataFiller.m in Sources */,
+				CE8D804F17EB322100C6B506 /* TableViewController.m in Sources */,
 				CED5FF5C17E737F300A07CCD /* DetailInformation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -328,6 +604,70 @@
 			isa = PBXVariantGroup;
 			children = (
 				CE67072617E1FFB000F14BA5 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CE8D805517EB323C00C6B506 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE8D805617EB323C00C6B506 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CE8D805B17EB323C00C6B506 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE8D805C17EB323C00C6B506 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CE8D806617EB32A100C6B506 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE8D806717EB32A100C6B506 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CE8D806C17EB32A100C6B506 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE8D806D17EB32A100C6B506 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CE8D807717EB32BE00C6B506 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE8D807817EB32BE00C6B506 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CE8D807D17EB32BE00C6B506 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE8D807E17EB32BE00C6B506 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CE8D808817EB330C00C6B506 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE8D808917EB330C00C6B506 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CE8D808E17EB330C00C6B506 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CE8D808F17EB330C00C6B506 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
