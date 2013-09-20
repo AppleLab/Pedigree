@@ -7,36 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CE04E2F717EB371300E81360 /* Abba z Carclei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2D917EB371300E81360 /* Abba z Carclei.jpg */; };
-		CE04E2F817EB371300E81360 /* Abbie Gail Braddock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2DA17EB371300E81360 /* Abbie Gail Braddock.jpg */; };
-		CE04E2F917EB371300E81360 /* Aksinia Borodino.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2DB17EB371300E81360 /* Aksinia Borodino.jpg */; };
-		CE04E2FA17EB371300E81360 /* Alegra von der Villa Musica.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2DC17EB371300E81360 /* Alegra von der Villa Musica.jpg */; };
-		CE04E2FB17EB371300E81360 /* Aria Stepowy Goniec.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2DD17EB371300E81360 /* Aria Stepowy Goniec.jpg */; };
-		CE04E2FC17EB371300E81360 /* Avann Agibeys.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2DE17EB371300E81360 /* Avann Agibeys.jpg */; };
-		CE04E2FD17EB371300E81360 /* Beasleys Alexa Rose Vom Alzimm.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2DF17EB371300E81360 /* Beasleys Alexa Rose Vom Alzimm.jpg */; };
-		CE04E2FE17EB371300E81360 /* Ben Frajan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2E017EB371300E81360 /* Ben Frajan.jpg */; };
-		CE04E2FF17EB371300E81360 /* Big-O Thunderheart of Kokomo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2E117EB371300E81360 /* Big-O Thunderheart of Kokomo.jpg */; };
-		CE04E30017EB371300E81360 /* Blagovest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2E217EB371300E81360 /* Blagovest.jpg */; };
-		CE04E30117EB371300E81360 /* Cajo’s Adirondack Whiteface.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2E317EB371300E81360 /* Cajo’s Adirondack Whiteface.jpg */; };
-		CE04E30217EB371300E81360 /* Cajo’s Face of Mischief.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2E417EB371300E81360 /* Cajo’s Face of Mischief.jpg */; };
-		CE04E30317EB371300E81360 /* Cajo’s Ladyhawk Stormdancer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2E517EB371300E81360 /* Cajo’s Ladyhawk Stormdancer.jpg */; };
-		CE04E30417EB371300E81360 /* Cajo’s Lion Heart of Algarin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2E617EB371300E81360 /* Cajo’s Lion Heart of Algarin.jpg */; };
-		CE04E30517EB371300E81360 /* Calaban’s Hoosier Daddy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2E717EB371300E81360 /* Calaban’s Hoosier Daddy.jpg */; };
-		CE04E30617EB371300E81360 /* Dakoda Bear Vom Richthofen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2E817EB371300E81360 /* Dakoda Bear Vom Richthofen.jpg */; };
-		CE04E30717EB371300E81360 /* Furia vom Richthofen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2E917EB371300E81360 /* Furia vom Richthofen.jpg */; };
-		CE04E30817EB371300E81360 /* King Solomon’s Wisdom II.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2EA17EB371300E81360 /* King Solomon’s Wisdom II.jpg */; };
-		CE04E30917EB371300E81360 /* Kohle vom Ritter Strasse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2EB17EB371300E81360 /* Kohle vom Ritter Strasse.jpg */; };
-		CE04E30A17EB371300E81360 /* Lisa vom Polarkreis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2EC17EB371300E81360 /* Lisa vom Polarkreis.jpg */; };
-		CE04E30B17EB371300E81360 /* Mariah’s Command in Conquer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2ED17EB371300E81360 /* Mariah’s Command in Conquer.jpg */; };
-		CE04E30C17EB371300E81360 /* Masako Mariko-San Foonying.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2EE17EB371300E81360 /* Masako Mariko-San Foonying.jpg */; };
-		CE04E30D17EB371300E81360 /* no.gif in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2EF17EB371300E81360 /* no.gif */; };
-		CE04E30E17EB371300E81360 /* Orient’s Pride Tonka Tuff OPA  .jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2F017EB371300E81360 /* Orient’s Pride Tonka Tuff OPA  .jpg */; };
-		CE04E30F17EB371300E81360 /* Polar Ice Great Pretender.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2F117EB371300E81360 /* Polar Ice Great Pretender.jpg */; };
-		CE04E31017EB371300E81360 /* Raja of Tarko.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2F217EB371300E81360 /* Raja of Tarko.jpg */; };
 		CE04E31117EB371300E81360 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE04E2F417EB371300E81360 /* TableViewController.m */; };
-		CE04E31217EB371300E81360 /* Timbuktu Atu Koibito.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2F517EB371300E81360 /* Timbuktu Atu Koibito.jpg */; };
-		CE04E31317EB371300E81360 /* Uzit v Bullinger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE04E2F617EB371300E81360 /* Uzit v Bullinger.jpg */; };
 		CE1860FC17E48FB90088830F /* DataFiller.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1860FB17E48FB90088830F /* DataFiller.m */; };
+		CE2ACE4717EC682C00C2E8B8 /* Abba z Carclei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE2B17EC682C00C2E8B8 /* Abba z Carclei.jpg */; };
+		CE2ACE4817EC682C00C2E8B8 /* Abbie Gail Braddock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE2C17EC682C00C2E8B8 /* Abbie Gail Braddock.jpg */; };
+		CE2ACE4917EC682C00C2E8B8 /* Aksinia Borodino.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE2D17EC682C00C2E8B8 /* Aksinia Borodino.jpg */; };
+		CE2ACE4A17EC682C00C2E8B8 /* Alegra von der Villa Musica.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE2E17EC682C00C2E8B8 /* Alegra von der Villa Musica.jpg */; };
+		CE2ACE4B17EC682C00C2E8B8 /* Aria Stepowy Goniec.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE2F17EC682C00C2E8B8 /* Aria Stepowy Goniec.jpg */; };
+		CE2ACE4C17EC682C00C2E8B8 /* Avann Agibeys.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3017EC682C00C2E8B8 /* Avann Agibeys.jpg */; };
+		CE2ACE4D17EC682C00C2E8B8 /* Beasleys Alexa Rose Vom Alzimm.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3117EC682C00C2E8B8 /* Beasleys Alexa Rose Vom Alzimm.jpg */; };
+		CE2ACE4E17EC682C00C2E8B8 /* Ben Frajan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3217EC682C00C2E8B8 /* Ben Frajan.jpg */; };
+		CE2ACE4F17EC682C00C2E8B8 /* Big-O Thunderheart of Kokomo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3317EC682C00C2E8B8 /* Big-O Thunderheart of Kokomo.jpg */; };
+		CE2ACE5017EC682C00C2E8B8 /* Blagovest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3417EC682C00C2E8B8 /* Blagovest.jpg */; };
+		CE2ACE5117EC682C00C2E8B8 /* Cajo’s Adirondack Whiteface.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3517EC682C00C2E8B8 /* Cajo’s Adirondack Whiteface.jpg */; };
+		CE2ACE5217EC682C00C2E8B8 /* Cajo’s Face of Mischief.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3617EC682C00C2E8B8 /* Cajo’s Face of Mischief.jpg */; };
+		CE2ACE5317EC682C00C2E8B8 /* Cajo’s Ladyhawk Stormdancer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3717EC682C00C2E8B8 /* Cajo’s Ladyhawk Stormdancer.jpg */; };
+		CE2ACE5417EC682C00C2E8B8 /* Cajo’s Lion Heart of Algarin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3817EC682C00C2E8B8 /* Cajo’s Lion Heart of Algarin.jpg */; };
+		CE2ACE5517EC682C00C2E8B8 /* Calaban’s Hoosier Daddy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3917EC682C00C2E8B8 /* Calaban’s Hoosier Daddy.jpg */; };
+		CE2ACE5617EC682C00C2E8B8 /* Dakoda Bear Vom Richthofen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3A17EC682C00C2E8B8 /* Dakoda Bear Vom Richthofen.jpg */; };
+		CE2ACE5717EC682C00C2E8B8 /* Furia vom Richthofen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3B17EC682C00C2E8B8 /* Furia vom Richthofen.jpg */; };
+		CE2ACE5817EC682C00C2E8B8 /* King Solomon’s Wisdom II.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3C17EC682C00C2E8B8 /* King Solomon’s Wisdom II.jpg */; };
+		CE2ACE5917EC682C00C2E8B8 /* Kohle vom Ritter Strasse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3D17EC682C00C2E8B8 /* Kohle vom Ritter Strasse.jpg */; };
+		CE2ACE5A17EC682C00C2E8B8 /* Lisa vom Polarkreis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3E17EC682C00C2E8B8 /* Lisa vom Polarkreis.jpg */; };
+		CE2ACE5B17EC682C00C2E8B8 /* Mariah’s Command in Conquer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE3F17EC682C00C2E8B8 /* Mariah’s Command in Conquer.jpg */; };
+		CE2ACE5C17EC682C00C2E8B8 /* Masako Mariko-San Foonying.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE4017EC682C00C2E8B8 /* Masako Mariko-San Foonying.jpg */; };
+		CE2ACE5D17EC682C00C2E8B8 /* no.gif in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE4117EC682C00C2E8B8 /* no.gif */; };
+		CE2ACE5E17EC682C00C2E8B8 /* Orient’s Pride Tonka Tuff OPA  .jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE4217EC682C00C2E8B8 /* Orient’s Pride Tonka Tuff OPA  .jpg */; };
+		CE2ACE5F17EC682C00C2E8B8 /* Polar Ice Great Pretender.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE4317EC682C00C2E8B8 /* Polar Ice Great Pretender.jpg */; };
+		CE2ACE6017EC682C00C2E8B8 /* Raja of Tarko.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE4417EC682C00C2E8B8 /* Raja of Tarko.jpg */; };
+		CE2ACE6117EC682C00C2E8B8 /* Timbuktu Atu Koibito.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE4517EC682C00C2E8B8 /* Timbuktu Atu Koibito.jpg */; };
+		CE2ACE6217EC682C00C2E8B8 /* Uzit v Bullinger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2ACE4617EC682C00C2E8B8 /* Uzit v Bullinger.jpg */; };
 		CE6706FE17E1FFB000F14BA5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE6706FD17E1FFB000F14BA5 /* Foundation.framework */; };
 		CE67070017E1FFB000F14BA5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE6706FF17E1FFB000F14BA5 /* CoreGraphics.framework */; };
 		CE67070217E1FFB000F14BA5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE67070117E1FFB000F14BA5 /* UIKit.framework */; };
@@ -98,38 +98,38 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		CE04E2D917EB371300E81360 /* Abba z Carclei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Abba z Carclei.jpg"; sourceTree = "<group>"; };
-		CE04E2DA17EB371300E81360 /* Abbie Gail Braddock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Abbie Gail Braddock.jpg"; sourceTree = "<group>"; };
-		CE04E2DB17EB371300E81360 /* Aksinia Borodino.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Aksinia Borodino.jpg"; sourceTree = "<group>"; };
-		CE04E2DC17EB371300E81360 /* Alegra von der Villa Musica.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Alegra von der Villa Musica.jpg"; sourceTree = "<group>"; };
-		CE04E2DD17EB371300E81360 /* Aria Stepowy Goniec.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Aria Stepowy Goniec.jpg"; sourceTree = "<group>"; };
-		CE04E2DE17EB371300E81360 /* Avann Agibeys.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Avann Agibeys.jpg"; sourceTree = "<group>"; };
-		CE04E2DF17EB371300E81360 /* Beasleys Alexa Rose Vom Alzimm.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Beasleys Alexa Rose Vom Alzimm.jpg"; sourceTree = "<group>"; };
-		CE04E2E017EB371300E81360 /* Ben Frajan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ben Frajan.jpg"; sourceTree = "<group>"; };
-		CE04E2E117EB371300E81360 /* Big-O Thunderheart of Kokomo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Big-O Thunderheart of Kokomo.jpg"; sourceTree = "<group>"; };
-		CE04E2E217EB371300E81360 /* Blagovest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Blagovest.jpg; sourceTree = "<group>"; };
-		CE04E2E317EB371300E81360 /* Cajo’s Adirondack Whiteface.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cajo’s Adirondack Whiteface.jpg"; sourceTree = "<group>"; };
-		CE04E2E417EB371300E81360 /* Cajo’s Face of Mischief.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cajo’s Face of Mischief.jpg"; sourceTree = "<group>"; };
-		CE04E2E517EB371300E81360 /* Cajo’s Ladyhawk Stormdancer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cajo’s Ladyhawk Stormdancer.jpg"; sourceTree = "<group>"; };
-		CE04E2E617EB371300E81360 /* Cajo’s Lion Heart of Algarin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cajo’s Lion Heart of Algarin.jpg"; sourceTree = "<group>"; };
-		CE04E2E717EB371300E81360 /* Calaban’s Hoosier Daddy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Calaban’s Hoosier Daddy.jpg"; sourceTree = "<group>"; };
-		CE04E2E817EB371300E81360 /* Dakoda Bear Vom Richthofen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Dakoda Bear Vom Richthofen.jpg"; sourceTree = "<group>"; };
-		CE04E2E917EB371300E81360 /* Furia vom Richthofen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Furia vom Richthofen.jpg"; sourceTree = "<group>"; };
-		CE04E2EA17EB371300E81360 /* King Solomon’s Wisdom II.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "King Solomon’s Wisdom II.jpg"; sourceTree = "<group>"; };
-		CE04E2EB17EB371300E81360 /* Kohle vom Ritter Strasse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kohle vom Ritter Strasse.jpg"; sourceTree = "<group>"; };
-		CE04E2EC17EB371300E81360 /* Lisa vom Polarkreis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lisa vom Polarkreis.jpg"; sourceTree = "<group>"; };
-		CE04E2ED17EB371300E81360 /* Mariah’s Command in Conquer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mariah’s Command in Conquer.jpg"; sourceTree = "<group>"; };
-		CE04E2EE17EB371300E81360 /* Masako Mariko-San Foonying.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Masako Mariko-San Foonying.jpg"; sourceTree = "<group>"; };
-		CE04E2EF17EB371300E81360 /* no.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = no.gif; sourceTree = "<group>"; };
-		CE04E2F017EB371300E81360 /* Orient’s Pride Tonka Tuff OPA  .jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Orient’s Pride Tonka Tuff OPA  .jpg"; sourceTree = "<group>"; };
-		CE04E2F117EB371300E81360 /* Polar Ice Great Pretender.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Polar Ice Great Pretender.jpg"; sourceTree = "<group>"; };
-		CE04E2F217EB371300E81360 /* Raja of Tarko.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Raja of Tarko.jpg"; sourceTree = "<group>"; };
 		CE04E2F317EB371300E81360 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
 		CE04E2F417EB371300E81360 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
-		CE04E2F517EB371300E81360 /* Timbuktu Atu Koibito.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Timbuktu Atu Koibito.jpg"; sourceTree = "<group>"; };
-		CE04E2F617EB371300E81360 /* Uzit v Bullinger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Uzit v Bullinger.jpg"; sourceTree = "<group>"; };
 		CE1860FA17E48FB90088830F /* DataFiller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataFiller.h; sourceTree = "<group>"; };
 		CE1860FB17E48FB90088830F /* DataFiller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataFiller.m; sourceTree = "<group>"; };
+		CE2ACE2B17EC682C00C2E8B8 /* Abba z Carclei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Abba z Carclei.jpg"; sourceTree = "<group>"; };
+		CE2ACE2C17EC682C00C2E8B8 /* Abbie Gail Braddock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Abbie Gail Braddock.jpg"; sourceTree = "<group>"; };
+		CE2ACE2D17EC682C00C2E8B8 /* Aksinia Borodino.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Aksinia Borodino.jpg"; sourceTree = "<group>"; };
+		CE2ACE2E17EC682C00C2E8B8 /* Alegra von der Villa Musica.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Alegra von der Villa Musica.jpg"; sourceTree = "<group>"; };
+		CE2ACE2F17EC682C00C2E8B8 /* Aria Stepowy Goniec.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Aria Stepowy Goniec.jpg"; sourceTree = "<group>"; };
+		CE2ACE3017EC682C00C2E8B8 /* Avann Agibeys.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Avann Agibeys.jpg"; sourceTree = "<group>"; };
+		CE2ACE3117EC682C00C2E8B8 /* Beasleys Alexa Rose Vom Alzimm.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Beasleys Alexa Rose Vom Alzimm.jpg"; sourceTree = "<group>"; };
+		CE2ACE3217EC682C00C2E8B8 /* Ben Frajan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Ben Frajan.jpg"; sourceTree = "<group>"; };
+		CE2ACE3317EC682C00C2E8B8 /* Big-O Thunderheart of Kokomo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Big-O Thunderheart of Kokomo.jpg"; sourceTree = "<group>"; };
+		CE2ACE3417EC682C00C2E8B8 /* Blagovest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Blagovest.jpg; sourceTree = "<group>"; };
+		CE2ACE3517EC682C00C2E8B8 /* Cajo’s Adirondack Whiteface.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cajo’s Adirondack Whiteface.jpg"; sourceTree = "<group>"; };
+		CE2ACE3617EC682C00C2E8B8 /* Cajo’s Face of Mischief.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cajo’s Face of Mischief.jpg"; sourceTree = "<group>"; };
+		CE2ACE3717EC682C00C2E8B8 /* Cajo’s Ladyhawk Stormdancer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cajo’s Ladyhawk Stormdancer.jpg"; sourceTree = "<group>"; };
+		CE2ACE3817EC682C00C2E8B8 /* Cajo’s Lion Heart of Algarin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cajo’s Lion Heart of Algarin.jpg"; sourceTree = "<group>"; };
+		CE2ACE3917EC682C00C2E8B8 /* Calaban’s Hoosier Daddy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Calaban’s Hoosier Daddy.jpg"; sourceTree = "<group>"; };
+		CE2ACE3A17EC682C00C2E8B8 /* Dakoda Bear Vom Richthofen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Dakoda Bear Vom Richthofen.jpg"; sourceTree = "<group>"; };
+		CE2ACE3B17EC682C00C2E8B8 /* Furia vom Richthofen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Furia vom Richthofen.jpg"; sourceTree = "<group>"; };
+		CE2ACE3C17EC682C00C2E8B8 /* King Solomon’s Wisdom II.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "King Solomon’s Wisdom II.jpg"; sourceTree = "<group>"; };
+		CE2ACE3D17EC682C00C2E8B8 /* Kohle vom Ritter Strasse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kohle vom Ritter Strasse.jpg"; sourceTree = "<group>"; };
+		CE2ACE3E17EC682C00C2E8B8 /* Lisa vom Polarkreis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lisa vom Polarkreis.jpg"; sourceTree = "<group>"; };
+		CE2ACE3F17EC682C00C2E8B8 /* Mariah’s Command in Conquer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mariah’s Command in Conquer.jpg"; sourceTree = "<group>"; };
+		CE2ACE4017EC682C00C2E8B8 /* Masako Mariko-San Foonying.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Masako Mariko-San Foonying.jpg"; sourceTree = "<group>"; };
+		CE2ACE4117EC682C00C2E8B8 /* no.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = no.gif; sourceTree = "<group>"; };
+		CE2ACE4217EC682C00C2E8B8 /* Orient’s Pride Tonka Tuff OPA  .jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Orient’s Pride Tonka Tuff OPA  .jpg"; sourceTree = "<group>"; };
+		CE2ACE4317EC682C00C2E8B8 /* Polar Ice Great Pretender.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Polar Ice Great Pretender.jpg"; sourceTree = "<group>"; };
+		CE2ACE4417EC682C00C2E8B8 /* Raja of Tarko.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Raja of Tarko.jpg"; sourceTree = "<group>"; };
+		CE2ACE4517EC682C00C2E8B8 /* Timbuktu Atu Koibito.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Timbuktu Atu Koibito.jpg"; sourceTree = "<group>"; };
+		CE2ACE4617EC682C00C2E8B8 /* Uzit v Bullinger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Uzit v Bullinger.jpg"; sourceTree = "<group>"; };
 		CE6706FA17E1FFB000F14BA5 /* Pedigree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pedigree.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE6706FD17E1FFB000F14BA5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CE6706FF17E1FFB000F14BA5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -269,6 +269,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CE2ACE2A17EC67E900C2E8B8 /* Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				CE2ACE2B17EC682C00C2E8B8 /* Abba z Carclei.jpg */,
+				CE2ACE2C17EC682C00C2E8B8 /* Abbie Gail Braddock.jpg */,
+				CE2ACE2D17EC682C00C2E8B8 /* Aksinia Borodino.jpg */,
+				CE2ACE2E17EC682C00C2E8B8 /* Alegra von der Villa Musica.jpg */,
+				CE2ACE2F17EC682C00C2E8B8 /* Aria Stepowy Goniec.jpg */,
+				CE2ACE3017EC682C00C2E8B8 /* Avann Agibeys.jpg */,
+				CE2ACE3117EC682C00C2E8B8 /* Beasleys Alexa Rose Vom Alzimm.jpg */,
+				CE2ACE3217EC682C00C2E8B8 /* Ben Frajan.jpg */,
+				CE2ACE3317EC682C00C2E8B8 /* Big-O Thunderheart of Kokomo.jpg */,
+				CE2ACE3417EC682C00C2E8B8 /* Blagovest.jpg */,
+				CE2ACE3517EC682C00C2E8B8 /* Cajo’s Adirondack Whiteface.jpg */,
+				CE2ACE3617EC682C00C2E8B8 /* Cajo’s Face of Mischief.jpg */,
+				CE2ACE3717EC682C00C2E8B8 /* Cajo’s Ladyhawk Stormdancer.jpg */,
+				CE2ACE3817EC682C00C2E8B8 /* Cajo’s Lion Heart of Algarin.jpg */,
+				CE2ACE3917EC682C00C2E8B8 /* Calaban’s Hoosier Daddy.jpg */,
+				CE2ACE3A17EC682C00C2E8B8 /* Dakoda Bear Vom Richthofen.jpg */,
+				CE2ACE3B17EC682C00C2E8B8 /* Furia vom Richthofen.jpg */,
+				CE2ACE3C17EC682C00C2E8B8 /* King Solomon’s Wisdom II.jpg */,
+				CE2ACE3D17EC682C00C2E8B8 /* Kohle vom Ritter Strasse.jpg */,
+				CE2ACE3E17EC682C00C2E8B8 /* Lisa vom Polarkreis.jpg */,
+				CE2ACE3F17EC682C00C2E8B8 /* Mariah’s Command in Conquer.jpg */,
+				CE2ACE4017EC682C00C2E8B8 /* Masako Mariko-San Foonying.jpg */,
+				CE2ACE4117EC682C00C2E8B8 /* no.gif */,
+				CE2ACE4217EC682C00C2E8B8 /* Orient’s Pride Tonka Tuff OPA  .jpg */,
+				CE2ACE4317EC682C00C2E8B8 /* Polar Ice Great Pretender.jpg */,
+				CE2ACE4417EC682C00C2E8B8 /* Raja of Tarko.jpg */,
+				CE2ACE4517EC682C00C2E8B8 /* Timbuktu Atu Koibito.jpg */,
+				CE2ACE4617EC682C00C2E8B8 /* Uzit v Bullinger.jpg */,
+			);
+			path = Pictures;
+			sourceTree = "<group>";
+		};
 		CE6706F117E1FFB000F14BA5 = {
 			isa = PBXGroup;
 			children = (
@@ -480,40 +515,13 @@
 		CED5FF5617E72DB300A07CCD /* DataView */ = {
 			isa = PBXGroup;
 			children = (
+				CE2ACE2A17EC67E900C2E8B8 /* Pictures */,
 				CE1860FB17E48FB90088830F /* DataFiller.m */,
 				CE1860FA17E48FB90088830F /* DataFiller.h */,
 				CED5FF5717E7307D00A07CCD /* ArrayOfNames.h */,
 				CED5FF5817E7307D00A07CCD /* ArrayOfNames.m */,
-				CE04E2D917EB371300E81360 /* Abba z Carclei.jpg */,
-				CE04E2DA17EB371300E81360 /* Abbie Gail Braddock.jpg */,
-				CE04E2DB17EB371300E81360 /* Aksinia Borodino.jpg */,
-				CE04E2DC17EB371300E81360 /* Alegra von der Villa Musica.jpg */,
-				CE04E2DD17EB371300E81360 /* Aria Stepowy Goniec.jpg */,
-				CE04E2DE17EB371300E81360 /* Avann Agibeys.jpg */,
-				CE04E2DF17EB371300E81360 /* Beasleys Alexa Rose Vom Alzimm.jpg */,
-				CE04E2E017EB371300E81360 /* Ben Frajan.jpg */,
-				CE04E2E117EB371300E81360 /* Big-O Thunderheart of Kokomo.jpg */,
-				CE04E2E217EB371300E81360 /* Blagovest.jpg */,
-				CE04E2E317EB371300E81360 /* Cajo’s Adirondack Whiteface.jpg */,
-				CE04E2E417EB371300E81360 /* Cajo’s Face of Mischief.jpg */,
-				CE04E2E517EB371300E81360 /* Cajo’s Ladyhawk Stormdancer.jpg */,
-				CE04E2E617EB371300E81360 /* Cajo’s Lion Heart of Algarin.jpg */,
-				CE04E2E717EB371300E81360 /* Calaban’s Hoosier Daddy.jpg */,
-				CE04E2E817EB371300E81360 /* Dakoda Bear Vom Richthofen.jpg */,
-				CE04E2E917EB371300E81360 /* Furia vom Richthofen.jpg */,
-				CE04E2EA17EB371300E81360 /* King Solomon’s Wisdom II.jpg */,
-				CE04E2EB17EB371300E81360 /* Kohle vom Ritter Strasse.jpg */,
-				CE04E2EC17EB371300E81360 /* Lisa vom Polarkreis.jpg */,
-				CE04E2ED17EB371300E81360 /* Mariah’s Command in Conquer.jpg */,
-				CE04E2EE17EB371300E81360 /* Masako Mariko-San Foonying.jpg */,
-				CE04E2EF17EB371300E81360 /* no.gif */,
-				CE04E2F017EB371300E81360 /* Orient’s Pride Tonka Tuff OPA  .jpg */,
-				CE04E2F117EB371300E81360 /* Polar Ice Great Pretender.jpg */,
-				CE04E2F217EB371300E81360 /* Raja of Tarko.jpg */,
 				CE04E2F317EB371300E81360 /* TableViewController.h */,
 				CE04E2F417EB371300E81360 /* TableViewController.m */,
-				CE04E2F517EB371300E81360 /* Timbuktu Atu Koibito.jpg */,
-				CE04E2F617EB371300E81360 /* Uzit v Bullinger.jpg */,
 				CED5FF5A17E737F300A07CCD /* DetailInformation.h */,
 				CED5FF5B17E737F300A07CCD /* DetailInformation.m */,
 			);
@@ -597,66 +605,66 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE8D803C17EB322100C6B506 /* Ben Frajan.jpg in Resources */,
-				CE04E2FB17EB371300E81360 /* Aria Stepowy Goniec.jpg in Resources */,
 				CE67071617E1FFB000F14BA5 /* Images.xcassets in Resources */,
-				CE04E2F817EB371300E81360 /* Abbie Gail Braddock.jpg in Resources */,
-				CE04E2FE17EB371300E81360 /* Ben Frajan.jpg in Resources */,
-				CE04E30917EB371300E81360 /* Kohle vom Ritter Strasse.jpg in Resources */,
-				CE04E30717EB371300E81360 /* Furia vom Richthofen.jpg in Resources */,
-				CE04E30F17EB371300E81360 /* Polar Ice Great Pretender.jpg in Resources */,
 				CE8D803B17EB322100C6B506 /* Beasleys Alexa Rose Vom Alzimm.jpg in Resources */,
+				CE2ACE5017EC682C00C2E8B8 /* Blagovest.jpg in Resources */,
 				CE8D804417EB322100C6B506 /* Dakoda Bear Vom Richthofen.jpg in Resources */,
-				CE04E2F917EB371300E81360 /* Aksinia Borodino.jpg in Resources */,
-				CE04E2FD17EB371300E81360 /* Beasleys Alexa Rose Vom Alzimm.jpg in Resources */,
+				CE2ACE5617EC682C00C2E8B8 /* Dakoda Bear Vom Richthofen.jpg in Resources */,
 				CE8D804717EB322100C6B506 /* Kohle vom Ritter Strasse.jpg in Resources */,
-				CE04E2FC17EB371300E81360 /* Avann Agibeys.jpg in Resources */,
+				CE2ACE4D17EC682C00C2E8B8 /* Beasleys Alexa Rose Vom Alzimm.jpg in Resources */,
+				CE2ACE5517EC682C00C2E8B8 /* Calaban’s Hoosier Daddy.jpg in Resources */,
 				CE8D804817EB322100C6B506 /* Lisa vom Polarkreis.jpg in Resources */,
-				CE04E2FF17EB371300E81360 /* Big-O Thunderheart of Kokomo.jpg in Resources */,
-				CE04E30817EB371300E81360 /* King Solomon’s Wisdom II.jpg in Resources */,
+				CE2ACE4C17EC682C00C2E8B8 /* Avann Agibeys.jpg in Resources */,
+				CE2ACE4F17EC682C00C2E8B8 /* Big-O Thunderheart of Kokomo.jpg in Resources */,
 				CE67070817E1FFB000F14BA5 /* InfoPlist.strings in Resources */,
-				CE04E30417EB371300E81360 /* Cajo’s Lion Heart of Algarin.jpg in Resources */,
+				CE2ACE5B17EC682C00C2E8B8 /* Mariah’s Command in Conquer.jpg in Resources */,
 				CE8D803817EB322100C6B506 /* Alegra von der Villa Musica.jpg in Resources */,
-				CE04E30317EB371300E81360 /* Cajo’s Ladyhawk Stormdancer.jpg in Resources */,
-				CE04E30C17EB371300E81360 /* Masako Mariko-San Foonying.jpg in Resources */,
-				CE04E2F717EB371300E81360 /* Abba z Carclei.jpg in Resources */,
-				CE04E30B17EB371300E81360 /* Mariah’s Command in Conquer.jpg in Resources */,
-				CE04E30A17EB371300E81360 /* Lisa vom Polarkreis.jpg in Resources */,
-				CE04E31317EB371300E81360 /* Uzit v Bullinger.jpg in Resources */,
 				CE8D804117EB322100C6B506 /* Cajo’s Ladyhawk Stormdancer.jpg in Resources */,
 				CE8D805117EB322100C6B506 /* Uzit v Bullinger.jpg in Resources */,
+				CE2ACE5C17EC682C00C2E8B8 /* Masako Mariko-San Foonying.jpg in Resources */,
 				CE8D803617EB322100C6B506 /* Abbie Gail Braddock.jpg in Resources */,
-				CE04E30217EB371300E81360 /* Cajo’s Face of Mischief.jpg in Resources */,
 				CE8D804E17EB322100C6B506 /* Raja of Tarko.jpg in Resources */,
+				CE2ACE5717EC682C00C2E8B8 /* Furia vom Richthofen.jpg in Resources */,
 				CE8D803517EB322100C6B506 /* Abba z Carclei.jpg in Resources */,
-				CE04E30017EB371300E81360 /* Blagovest.jpg in Resources */,
+				CE2ACE4817EC682C00C2E8B8 /* Abbie Gail Braddock.jpg in Resources */,
 				CE8D804217EB322100C6B506 /* Cajo’s Lion Heart of Algarin.jpg in Resources */,
-				CE04E31217EB371300E81360 /* Timbuktu Atu Koibito.jpg in Resources */,
+				CE2ACE5117EC682C00C2E8B8 /* Cajo’s Adirondack Whiteface.jpg in Resources */,
 				CE8D804917EB322100C6B506 /* Mariah’s Command in Conquer.jpg in Resources */,
 				CE8D803E17EB322100C6B506 /* Blagovest.jpg in Resources */,
 				CE8D804D17EB322100C6B506 /* Polar Ice Great Pretender.jpg in Resources */,
-				CE04E31017EB371300E81360 /* Raja of Tarko.jpg in Resources */,
+				CE2ACE5E17EC682C00C2E8B8 /* Orient’s Pride Tonka Tuff OPA  .jpg in Resources */,
 				CE8D804A17EB322100C6B506 /* Masako Mariko-San Foonying.jpg in Resources */,
+				CE2ACE4717EC682C00C2E8B8 /* Abba z Carclei.jpg in Resources */,
+				CE2ACE5817EC682C00C2E8B8 /* King Solomon’s Wisdom II.jpg in Resources */,
 				CE8D803917EB322100C6B506 /* Aria Stepowy Goniec.jpg in Resources */,
 				CE8D805017EB322100C6B506 /* Timbuktu Atu Koibito.jpg in Resources */,
 				CE8D804617EB322100C6B506 /* King Solomon’s Wisdom II.jpg in Resources */,
+				CE2ACE5217EC682C00C2E8B8 /* Cajo’s Face of Mischief.jpg in Resources */,
 				CE8D804C17EB322100C6B506 /* Orient’s Pride Tonka Tuff OPA  .jpg in Resources */,
-				CE04E30117EB371300E81360 /* Cajo’s Adirondack Whiteface.jpg in Resources */,
 				CE8D804B17EB322100C6B506 /* no.gif in Resources */,
+				CE2ACE6217EC682C00C2E8B8 /* Uzit v Bullinger.jpg in Resources */,
+				CE2ACE5A17EC682C00C2E8B8 /* Lisa vom Polarkreis.jpg in Resources */,
+				CE2ACE6117EC682C00C2E8B8 /* Timbuktu Atu Koibito.jpg in Resources */,
 				CE8D804517EB322100C6B506 /* Furia vom Richthofen.jpg in Resources */,
 				CE8D801617EB31F100C6B506 /* Data base in Resources */,
+				CE2ACE4B17EC682C00C2E8B8 /* Aria Stepowy Goniec.jpg in Resources */,
 				CE8D803717EB322100C6B506 /* Aksinia Borodino.jpg in Resources */,
-				CE04E30E17EB371300E81360 /* Orient’s Pride Tonka Tuff OPA  .jpg in Resources */,
-				CE04E30617EB371300E81360 /* Dakoda Bear Vom Richthofen.jpg in Resources */,
+				CE2ACE5F17EC682C00C2E8B8 /* Polar Ice Great Pretender.jpg in Resources */,
 				CE8D804317EB322100C6B506 /* Calaban’s Hoosier Daddy.jpg in Resources */,
-				CE04E2FA17EB371300E81360 /* Alegra von der Villa Musica.jpg in Resources */,
 				CE8D803F17EB322100C6B506 /* Cajo’s Adirondack Whiteface.jpg in Resources */,
-				CE04E30517EB371300E81360 /* Calaban’s Hoosier Daddy.jpg in Resources */,
-				CE04E30D17EB371300E81360 /* no.gif in Resources */,
 				CE8D803D17EB322100C6B506 /* Big-O Thunderheart of Kokomo.jpg in Resources */,
 				CE8D803A17EB322100C6B506 /* Avann Agibeys.jpg in Resources */,
+				CE2ACE5917EC682C00C2E8B8 /* Kohle vom Ritter Strasse.jpg in Resources */,
+				CE2ACE5D17EC682C00C2E8B8 /* no.gif in Resources */,
 				CE67071117E1FFB000F14BA5 /* Main.storyboard in Resources */,
 				CE8D804017EB322100C6B506 /* Cajo’s Face of Mischief.jpg in Resources */,
+				CE2ACE5417EC682C00C2E8B8 /* Cajo’s Lion Heart of Algarin.jpg in Resources */,
 				CEE3102A17EB384300F95913 /* Data base in Resources */,
+				CE2ACE6017EC682C00C2E8B8 /* Raja of Tarko.jpg in Resources */,
+				CE2ACE4917EC682C00C2E8B8 /* Aksinia Borodino.jpg in Resources */,
+				CE2ACE4E17EC682C00C2E8B8 /* Ben Frajan.jpg in Resources */,
+				CE2ACE5317EC682C00C2E8B8 /* Cajo’s Ladyhawk Stormdancer.jpg in Resources */,
+				CE2ACE4A17EC682C00C2E8B8 /* Alegra von der Villa Musica.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
